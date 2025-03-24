@@ -1,0 +1,6 @@
+media/*
+
+*.tex
+
+*.lua
+*.py
