@@ -194,7 +194,7 @@ console.log(a); // a = undefined
 var a = 3;
 console.log(a); // a = 3
 
-// const
+// let
 console.log(b); // ReferenceError: Cannot access 'b' before initialization (нельзя использовать b до инициализации)
 let b = 3;
 console.log(b); // b = 3
