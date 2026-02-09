@@ -704,7 +704,7 @@ String(NaN);     // "NaN"
 
 // Приведение `undefined` к `string`
 String(undefined); // "undefined"
-`
+
 // Приведение `boolean` к `string`
 String(true);   // "true"
 String(false);  // "false"
